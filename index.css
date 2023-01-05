@@ -1,3 +1,7 @@
 body{
    background-color: rgb(124, 124, 204); 
 }
+button{
+   width: 50px;
+   height: 35px;
+}
